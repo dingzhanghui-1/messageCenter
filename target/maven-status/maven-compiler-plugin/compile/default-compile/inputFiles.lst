@@ -1,0 +1,2 @@
+/opt/code/messageCenter/src/main/java/com/chongdong/messagecenter/producer/KafkaMsgProducer.java
+/opt/code/messageCenter/src/main/java/com/chongdong/messagecenter/utils/UidGenerator.java
